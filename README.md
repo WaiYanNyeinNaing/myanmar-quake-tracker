@@ -2,7 +2,15 @@
 
 A real-time earthquake monitoring application for Myanmar and surrounding regions, providing up-to-date information on seismic activity in an easy-to-understand format.
 
-![Myanmar Quake Tracker Screenshot](https://via.placeholder.com/800x450.png?text=Myanmar+Quake+Tracker)
+### Main Dashboard (Myanmar Quake Tracker)
+![Main Dashboard](1.png)
+
+### Earthquake Analysis
+![Earthquake Analysis](2.png)
+
+### Time Series Analysis
+![Time Series Analysis](3.png)
+
 
 ## Features
 
