@@ -2,6 +2,9 @@
 
 A real-time earthquake monitoring application for Myanmar and surrounding regions, providing up-to-date information on seismic activity in an easy-to-understand format.
 
+Application Link :
+https://myanmar-quake-tracker-1.onrender.com/
+
 ### Main Dashboard (Myanmar Quake Tracker)
 ![Main Dashboard](1.png)
 
